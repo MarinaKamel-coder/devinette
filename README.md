@@ -23,11 +23,4 @@ Le jeu se termine lorsque :
 
 💀 Vous avez utilisé tous vos essais.
 
-🦀 Technologies utilisées
 
-Langage : Rust
-
-Crates :
-
-rand
- – pour le choix aléatoire
