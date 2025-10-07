@@ -22,6 +22,7 @@ Le jeu se termine lorsque :
 🎉 Vous avez trouvé toutes les lettres.
 
 💀 Vous avez utilisé tous vos essais.
+
 🦀 Technologies utilisées
 
 Langage : Rust
